@@ -1,5 +1,4 @@
 ## 마크업개발자 조명진입니다.
------------------------------------
 저는 마크업개발자로서 여러 분야의 서비스 구축에 참여하였고 유지보수 운영을 진행하였습니다.
 <!--
 **lexy-cho/lexy-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
