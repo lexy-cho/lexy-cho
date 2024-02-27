@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 마크업개발자 조명진입니다.
 
 <!--
 **lexy-cho/lexy-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
