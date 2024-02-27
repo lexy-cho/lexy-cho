@@ -1,4 +1,4 @@
-### 마크업개발자 조명진입니다.
+## 마크업개발자 조명진입니다.
 -----------------------------------
 저는 마크업개발자로서 여러 분야의 서비스 구축에 참여하였고 유지보수 운영을 진행하였습니다.
 <!--
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Technical Skills
+## Technical Skills
 html5 css3 javascripts jQuery react.js vue.js
 git photoshop
